@@ -1,6 +1,7 @@
 # Kaggle-Titanic-Prediction
 
 Hi everyone, this is my try in the competition of Titanic Survival Prediction in Kaggle.com.
+Check it out: https://www.kaggle.com/competitions/titanic/overview
 
 The data has been split into two groups:
 training set (train.csv)
